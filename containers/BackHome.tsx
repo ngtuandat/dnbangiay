@@ -146,7 +146,7 @@ const BackHome = () => {
                       ))}
                     </div>
                     <p className="text-base font-semibold">
-                      {product?.price.toLocaleString("vi")} đ
+                      {product?.price.toLocaleString("vi")} đ.
                     </p>
                   </div>
                 </div>
